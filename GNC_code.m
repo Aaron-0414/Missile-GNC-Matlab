@@ -2,7 +2,7 @@
 %  MISSILE GNC SIMULATION - HYBRID 6DOF
 %  Uses proven 3DOF kinematics + realistic attitude dynamics for visualization
 %  
-%  Author: [Your Name]
+%  Author: 
 %  Date: February 2026
 %  
 %  STRATEGY: Decouple guidance/kinematics (which work) from attitude (for realism)
